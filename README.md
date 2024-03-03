@@ -9,7 +9,7 @@ VillagerNames gives all villagers a pre-defined name. However it's very dysfunct
 - That's it!
 
 ## CONTRIBUTION
-You can open (pull request)[https://github.com/nxpinhum5326/VillagerNames/pulls] :D
+You can open [pull request](https://github.com/nxpinhum5326/VillagerNames/pulls) :D
 
 ## NOTE
    I plan to make this plugin part of my "advanced villager/village" system.
