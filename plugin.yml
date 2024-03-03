@@ -1,0 +1,5 @@
+name: VillagerNames
+version: 1.0.0
+api: 5.0.0
+author: scheria
+main: scher\villagernames\Loader
