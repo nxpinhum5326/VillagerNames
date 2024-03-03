@@ -5,6 +5,6 @@ branches:
 projects:
   VillagerNames:
     path: ""
-lint:
+    lint:
       phpstan: false
 ...
